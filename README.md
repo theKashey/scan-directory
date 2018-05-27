@@ -1,4 +1,4 @@
-[![NPM](https://nodei.co/npm/scan-directory.png?downloads=true&stars=true)](https://nodei.co/npm/scan-directory/)
+[![NPM](https://nodei.co/npm/scan-directory.png?downloads=true&stars=true)](https://nodei.co/npm/scan-directory/) [![Greenkeeper badge](https://badges.greenkeeper.io/theKashey/scan-directory.svg)](https://greenkeeper.io/)
 
 Blasing fast directory scan. Uses async/await underneath, doing all the stuff in async and parallel way
  
