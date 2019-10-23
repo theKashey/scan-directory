@@ -1,11 +1,30 @@
 {
-  "presets": [
-    [
-      "env",
-      {
-        "targets": {"node": "7.0"},
-        "useBuiltIns": true
-      }
-    ]
-  ]
+  "env": {
+    "es5": {
+      "presets": [
+        [
+          "env",
+          {
+            "targets": {
+              "node": "7.0"
+            },
+            "useBuiltIns": true
+          }
+        ]
+      ]
+    },
+    "es2015": {
+      "presets": [
+        [
+          "env",
+          {
+            "targets": {
+              "node": "10.0"
+            },
+            "useBuiltIns": true
+          }
+        ]
+      ]
+    }
+  }
 }
